@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ApiAppNamoro",
+    "\\ApiAppNamoro\\ApiAppNamoro",
+    "\\ApiAppNamoro\\ApiAppNamoro\\Models"
   ],
+  "SelectedNode": "\\ApiAppNamoro\\ApiAppNamoro\\Models\\Conta.cs",
   "PreviewInSolutionExplorer": false
 }
